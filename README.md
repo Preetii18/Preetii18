@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Preeti </h1>
+<h3 align="center">Software Engineering Student | Data Science & AI/ML Enthusiast  </h3>
 
-<!--
-**Preetii18/Preetii18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**
 
-Here are some ideas to get you started:
+- 🚀 I’m exploring AI/ML, Datascience, and building impactful Projects.
+- 🎯 My goal is to develop impactful solutions that address real-world problems and contribute to meaningful causes.
+  
+📬 **Connect With Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: http://www.linkedin.com/in/preeti-singh-18518a24a
+- Email: vshpreeti2003@gmail.com
+
+⭐️ If you like what I do, consider giving a ⭐ to my repositories or connecting with me!
+
+
+
